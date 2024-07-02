@@ -2,8 +2,8 @@
 
 - 💻 Buscando uma oportunidade para colocar meus conhecimentos em prática;
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cancellap&show_icons=true&theme=dracula" alt="Pedro's GitHub stats" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cancellap&layout=compact&theme=dracula" alt="Top Langs" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=cancellap&show_icons=true&theme=dracula&cacheBuster=1" alt="Pedro's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cancellap&layout=compact&theme=dracula&cacheBuster=1" alt="Top Langs">
 </div>
 
 <br>
