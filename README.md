@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu chamo Pedro Cancella e sou Desenvolvedor Web FullStack</h2>
+<h2 align="left">Olá, me chamo Pedro Cancella e sou Desenvolvedor Web FullStack</h2>
 
 ###
 
