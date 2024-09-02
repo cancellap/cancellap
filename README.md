@@ -3,9 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cancellap&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="143" alt="stats graph"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cancellap&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=true&hide_border=false&order=1" height="143" alt="activity-graph graph"/>
-</di>
+  <div style="background-color: transparent; padding: 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=cancellap&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=chartreuse-dark&locale=en&order=1" height="143" alt="stats graph" style="border: 0;"/>
+  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cancellap&radius=16&theme=chartreuse-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&order=5&hide_title=true&order=1" height="143" alt="activity-graph graph"/>
+</div>
+
 
 ###
 
