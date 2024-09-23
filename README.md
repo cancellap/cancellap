@@ -1,6 +1,6 @@
 <h2 align="left">Olá, meu nome é Pedro Cancella</h2>
 
-<h1 align="center">Nicolas Theodoro Lopes</h1>
+<h1 align="center">Pedro Cancella</h1>
 <h3 align="center">
   Estudante de TI - <a href="https://www.faeterj-petropolis.edu.br/ensino-superior">FAETERJ</a> / Petrópolis - Residente TIC Software em <a href="https://serratec.org/residencia/index.html">SERRATEC</a>
 </h3>
