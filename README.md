@@ -1,13 +1,24 @@
 <h2 align="left">Olá meu nome é Pedro Cancella</h2>
 
 ###
+<h1 align="center">Nicolas Theodoro Lopes</h1>
+<h3 align="center">Backend na linha de produtos de gestão empresarial web, desenvolvimento ERP.</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cancellap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cancellap&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<p align="center">
+  <a href="https://github.com/cancellap">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cancellap&theme=dark" />
+  </a>
+  <a href="https://github.com/cancellap">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cancellap&hide_border=true&card_width=338&theme=dark" />
+  </a>
+  <a href="https://github.com/cancellap">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cancellap&theme=dark" />
+  </a>
+  <a href="https://github.com/cancellap">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cancellap&card_width=699&hide_border=true&theme=dark&hide=HTML,CSS" />
+  </a>
+  <br />
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
