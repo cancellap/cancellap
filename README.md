@@ -1,14 +1,17 @@
 <h2 align="left">Olá, meu nome é Pedro Cancella</h2>
+
 <h3 align="center">
   Estudante de TI - <a href="https://www.faeterj-petropolis.edu.br/ensino-superior">FAETERJ</a> / Petrópolis - Residente TIC Software no <a href="https://serratec.org/residencia/index.html">SERRATEC</a>
 </h3>
+
 <p align="center">
   <a href="https://github.com/cancellap">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cancellap&theme=dark" alt="Resumo do perfil GitHub" />
   </a>
-  <a href="https://github.com/cancellap">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cancellap&hide_border=true&card_width=338&theme=dark" alt="GitHub Streak Stats" />
-  </a>
+<a href="https://github.com/cancellap">
+    <img src="https://streak-stats.demolab.com/?user=cancellap&hide_border=true&theme=dark" alt="GitHub Streak Stats" />
+</a>
+
   <a href="https://github.com/cancellap">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cancellap&theme=dark" alt="Estatísticas do GitHub" />
   </a>
@@ -17,6 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&hide_border=true&theme=dark" alt="Linguagens mais usadas" />
   </a>
 </p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="Logo do JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="Logo do TypeScript" />
@@ -26,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Logo do Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Logo do Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="30" alt="Logo do PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Logo do Spring" />
 </div>
 
 <p align="center">
