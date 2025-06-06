@@ -24,7 +24,7 @@ Sou estudante de Tecnologia da Informação na [FAETERJ Petrópolis](https://www
 
 ## 🚀 Tecnologias e Ferramentas
 
-### 🔹 Backend
+### 🔹
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
@@ -32,18 +32,18 @@ Sou estudante de Tecnologia da Informação na [FAETERJ Petrópolis](https://www
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
 </p>
 
-### 🔹 Banco de Dados
+### 🔹
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="PostgreSQL" />
 </p>
 
-### 🔹 DevOps & Mensageria
+### 🔹
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ" />
 </p>
 
-### 🔹 Frontend
+### 🔹
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" />
