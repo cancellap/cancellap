@@ -6,12 +6,14 @@
   <a href="https://www.linkedin.com/in/cancellapedro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:pedrocancella@email.com" target="_blank">
+  <a href="mailto:pedrocancella94@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=cancellap&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
-
+<h1 align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+</h1>
 ---
 
 ## 💻 Sobre mim
