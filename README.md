@@ -19,7 +19,6 @@
 
 Sou estudante de **Tecnologia da Informação** na [FAETERJ Petrópolis](https://www.faeterj-petropolis.edu.br/ensino-superior) e sou ex **Residente TIC Software** no [SERRATEC](https://serratec.org/residencia/index.html). Tenho experiência com desenvolvimento full stack, mas foco em backend e estou sempre buscando aprender novas tecnologias! Nesse momento estou estudando sobre implementecao de IA em python.
 
----
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -59,5 +58,3 @@ Sou estudante de **Tecnologia da Informação** na [FAETERJ Petrópolis](https:/
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
 </a>
 </p>
-
----
