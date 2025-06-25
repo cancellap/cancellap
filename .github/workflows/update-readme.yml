@@ -17,7 +17,7 @@ jobs:
           V=$(date +%s)
           sed -i "s|https://github-readme-stats.vercel.app/api/top-langs?username=cancellap.*|https://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula&v=$V|" README.md
 
-      - name: Commit e push
+      - name: Commit e push com token
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
