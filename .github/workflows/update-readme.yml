@@ -15,7 +15,8 @@ jobs:
       - name: Atualizar parâmetro da imagem
         run: |
           V=$(date +%s)
-          sed -i "s|https://github-readme-stats.vercel.app/api/top-langs?username=cancellap.*|https://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula&v=$V|" README.md
+          sed -i -E "s|(https://github-readme-stats.vercel.app/api/top-langs\?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula )(&v=[0-9]+)?|\1&v=$V|" README.md
+
 
       - name: Verificar se o token foi carregado (debug temporário)
         run: |
