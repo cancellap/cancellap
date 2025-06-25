@@ -16,11 +16,15 @@ jobs:
         run: |
           V=$(date +%s)
           sed -i "s|https://github-readme-stats.vercel.app/api/top-langs?username=cancellap.*|https://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula&v=$V|" README.md
-
+      
       - name: Commit e push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
           git add README.md
           git commit -m "Atualiza imagem README com cache bust" || echo "Sem alterações"
           git push
+
