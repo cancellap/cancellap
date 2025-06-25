@@ -55,6 +55,6 @@ Sou estudante de **Tecnologia da Informação** na [FAETERJ Petrópolis](https:/
 
 <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cancellaphttps://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />layout=compacthttps://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />langs_count=8https://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />card_width=320https://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />show_icons=truehttps://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />theme=draculahttps://github-readme-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />v=1750813163
 </a>
 </p>
