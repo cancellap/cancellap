@@ -19,17 +19,17 @@ jobs:
 
       - name: Verificar se o token foi carregado (debug temporário)
         run: |
-          echo "GH_TOKEN está vazio? -> [${GH_TOKEN}]"
+          echo "TOKEN está vazio? -> [${TOKEN}]"
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
 
       - name: Commit e push com token
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
           git add README.md
           git commit -m "Atualiza imagem README com cache bust" || echo "Sem alterações"
           git push origin HEAD:main
