@@ -30,9 +30,8 @@ Tenho experiência com desenvolvimento **Full Stack**, mas minha especialidade �
 
 Também possuo experiência com **arquitetura de APIs, mensageria e containerização**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cancellap&layout=compact&theme=dracula&hide=html,css,scss)
-
 # Tecnologias
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=cancellap&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&hide=javascript%2C+html%2C+css&langs_count=5)](https://nice-readme.vercel.app/top-langs)
 
 ## Backend
 
